@@ -1,0 +1,18 @@
+2
+1 Insert 2,c
+2 Replace 7,e
+
+4
+1 Replace 1,n
+2 Replace 2,a
+3 Replace 3,m
+4 Replace 4,e
+
+2
+1 Delete 1
+2 Insert 4,s
+
+3
+1 Insert 3,a
+2 Replace 5,a
+3 Replace 12,b
